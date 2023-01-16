@@ -1,15 +1,19 @@
 <h1 align="center">Olá 👋, meu nome é Vinicius Nati</h1>
-<h3 align="center">Eu sou um Analista de Dados graduado em Análise e Desenvolvimento de Sistemas</h3>
+<h3 align="center">Desenvolvedor Web graduado em Análise e Desenvolvimento de Sistemas, framework principal atualmente:Django.</h3>
 
-- 🌱 Atualmente estou me aprimorando em **Python para Machine Learning**
+- 🌱 Atualmente estou me aprimorando em **ReactJS**
 
-- 👨‍💻 Estarei colocando meus projetos de portfolio neste repoi [https://github.com/ViniciusNati/dataanalysis](https://github.com/ViniciusNati/dataanalysis)
+- 👨‍💻 Estarei colocando meus projetos de portfolio neste repoi [https://github.com/ViniciusNati/portfoliodev](https://github.com/ViniciusNati/portfoliodev)
 
 - Linkedin: [https://www.linkedin.com/in/viniciusnati/](https://www.linkedin.com/in/viniciusnati/)
 
-- 💬 Me pergunte sobre **SQL, Excel, Python, PowerBI, Django e HTML/CSS, Google Sheets, Facebook Ads e Google Ads**
+- 💬 Me pergunte sobre **SQL, Excel, Python, PowerBI, Django e HTML/CSS, Google Sheets, Facebook Ads, Google Ads, Google Adsense e SEO**
 
 - 📫 Você me acha através do email **viniciusgnati@gmail.com**
+
+- 📫 Sites de Portfólio:
+-  https://www.modsmta.com.br/
+-  
 
 - 📄 Experiências [Trabalhei por alguns meses como Analista de Dados em uma Empresa de Marketing utilizando diversas ferramentas para Análise de Dados e Mídias Sociais.](Trabalhei por alguns meses como Analista de Dados em uma Empresa de Marketing utilizando diversas ferramentas para Análise de Dados e Mídias Sociais.)
 
