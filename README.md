@@ -13,7 +13,7 @@
 
 - 📫 Sites de Portfólio:
 -  https://www.modsmta.com.br/
--  
+-  https://www.bolafut.com.br/
 
 - 📄 Experiências [Trabalhei por alguns meses como Analista de Dados em uma Empresa de Marketing utilizando diversas ferramentas para Análise de Dados e Mídias Sociais.](Trabalhei por alguns meses como Analista de Dados em uma Empresa de Marketing utilizando diversas ferramentas para Análise de Dados e Mídias Sociais.)
 
